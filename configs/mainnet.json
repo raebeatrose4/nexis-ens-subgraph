@@ -1,0 +1,22 @@
+{
+  "network": "mainnet",
+  "ENSRegistry": {
+    "Address": "0xfe0de7767705C1f22ca2404272e0a4Fc95fda99a",
+    "StartBlock": 2572542
+  },
+  "BaseRegistrar": {
+    "Address": "0x711B36462E735DDad4d2895702F1ba911f2A92aC",
+    "StartBlock": 2572542
+  },
+  "EthRegistrarController": {
+    "Address": "0x283Af0B28c62C092C9727F1Ee09c02CA627EB7F5",
+    "StartBlock": 2572542
+  },
+  "NameWrapper": {
+    "Address": "0xf9fEA265119CfE96B7109Ada484bD8908033F499",
+    "StartBlock": 2572542
+  },
+  "Resolver": {
+    "StartBlock": 2572542
+  }
+}
